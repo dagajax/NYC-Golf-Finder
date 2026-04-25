@@ -1,0 +1,58 @@
+:root {
+  /* Backgrounds */
+  --color-bg: #0d1b0e;
+  --color-bg-elev: #122113;
+  --color-panel: rgba(20, 38, 22, 0.72);
+  --color-panel-strong: rgba(28, 50, 30, 0.92);
+
+  /* Greens */
+  --color-green-100: #c5e8c7;
+  --color-green-300: #6ec272;
+  --color-green-500: #4a9e4e;
+  --color-green-700: #2d5a30;
+  --color-green-900: #16331a;
+
+  /* Borders / dividers */
+  --color-border: rgba(74, 158, 78, 0.28);
+  --color-border-strong: rgba(74, 158, 78, 0.55);
+
+  /* Accents */
+  --color-gold: #e8a83a;
+  --color-gold-soft: #f3c873;
+
+  /* Text */
+  --color-text: #eaf3eb;
+  --color-text-dim: #9fb6a3;
+  --color-text-faint: #6f8474;
+
+  /* Borough colors */
+  --borough-bronx: #e85d3a;
+  --borough-brooklyn: #3a7ce8;
+  --borough-queens: #e8a83a;
+  --borough-staten-island: #3ae87c;
+  --borough-long-island: #c43ae8;
+  --borough-new-jersey: #e83a8c;
+  --borough-westchester: #3ad4e8;
+
+  /* Typography */
+  --font-serif: Georgia, "Times New Roman", Times, serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  /* Radii / spacing */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-pill: 999px;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-8: 48px;
+
+  /* Shadows */
+  --shadow-card: 0 6px 24px rgba(0, 0, 0, 0.45);
+  --shadow-glow: 0 0 24px rgba(74, 158, 78, 0.18);
+}
